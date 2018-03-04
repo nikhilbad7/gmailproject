@@ -23,7 +23,7 @@ top:'200px'},4000).animate({left:'1100px'},4000).animate({top:'430px'},4000).ani
 		<img src="images/j1.png" id="cloud2">
 		<img src="images/j1.png" id="cloud3">
 		<img src="images/j1.png" id="cloud1">
-		<nav class="navbar navbar-default">
+		<nav class="navbar navbar-default" id="nav">
 			<div class="container-fluid">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
