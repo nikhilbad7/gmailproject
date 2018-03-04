@@ -25,6 +25,7 @@
 									<ul class="dropdown-menu">
 										
 										<li><a href="create.php" id="how">How To Create a Gmail Account</a></li>
+										<li><a href="menu.php" id="how1">Back to menu page</a></li>
 									</ul>
 								</li>
 							</ul>
