@@ -23,7 +23,7 @@ if(isset($_REQUEST["b1"])){
 <form>
 <input type="submit" value="welcome to gmail" name="b1" id="b">
 </form>
-<script src="javascript files/jq.js"></script>
+<script src="javascriptfiles/jq.js"></script>
 <script>
 $(document).ready(function(){
 	setInterval(function(){
