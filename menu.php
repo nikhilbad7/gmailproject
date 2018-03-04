@@ -1,7 +1,7 @@
 <html>
 <head>
-<script src="jquery.min.js"></script>
-<script src="bootstrap.min.js"></script>
+<script src="javascript files/jquery.min.js"></script>
+<script src="javascript files/bootstrap.min.js"></script>
 <link href="css files/bootstrap.min.css" rel="stylesheet">
 <link href="css files/menustyle.css" rel="stylesheet">
 </head>
@@ -15,9 +15,9 @@ top:'200px'},4000).animate({left:'860px'},4000).animate({top:'260px'},4000).anim
 });
 </script>
 <div class="container">
-	<img src="boyy.jpg" id="bo">
-	<img src="girll.png" id="go">
-	<img src="black.png" id="bl">
+	<img src="images/boyy.jpg" id="bo">
+	<img src="images/girll.png" id="go">
+	<img src="images/black.png" id="bl">
 	<nav class="navbar navbar-inverse">
 		<div class="container-fluid">
 			<div class="navbar-header">
